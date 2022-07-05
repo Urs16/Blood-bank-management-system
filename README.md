@@ -1,5 +1,7 @@
 # Blood Bank Management System
 
+THE PROJECT CAN BE EXTRACTED FROM BLOOD.ZIP
+
 Admin
 - Create Admin account using following command
 
